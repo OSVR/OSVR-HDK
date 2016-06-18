@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Mar 09 12:35:51 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/work/Eileen/usb_fpc/usb-fpc-library/usb-fpc-001-0119pm16.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  R14X118 being dumped.
+
+  VIA24 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  t8o6i2g being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  aces_50502-14-fpcpin being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  razer-2l being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+Number of package symbols dumped:          1
+Number of mechanical symbols dumped:       1
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:            3
+*****************************************************
+

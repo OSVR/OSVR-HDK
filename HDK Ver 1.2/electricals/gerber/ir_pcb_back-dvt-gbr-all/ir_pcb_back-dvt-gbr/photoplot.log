@@ -1,0 +1,446 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : ir_pcb_back-dvt-0514pm14.brd                  )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Thu May 14 15:43:47 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER6X00
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             240000 160000
+    FORMAT                5.4
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    G-CODES               NO
+    OPTIMIZE              YES
+    STATIONS-PER-WHEEL    999
+    COORDINATES           ABSOLUTE
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+
+ WARNING: database resolution exceeds the resolution of the 
+      output coordinates (see FORMAT in parameter file).
+      Some roundoff of coordinates may occur unless the number
+      of decimal places in the output file is increased.
+
+Thu May 14 15:43:47 2015				Page     1
+
+Photoplot log file
+Results from aperture table.
+
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               4            D53
+LINE               5            D52
+LINE               6            D54
+LINE               8            D55
+LINE              10            D56
+LINE              15            D59
+LINE              20            D60
+LINE              24            D58
+LINE              25            D57
+CIRCLE            24            D39
+CIRCLE            26            D22
+CIRCLE            30            D25
+CIRCLE            32            D23
+CIRCLE            36            D26
+CIRCLE            40            D20
+CIRCLE            47            D33
+CIRCLE            50            D24
+CIRCLE            53            D34
+CIRCLE            75            D27
+CIRCLE            77            D32
+CIRCLE           117            D28
+CIRCLE           118            D21
+CIRCLE           197            D30
+CIRCLE           203            D31
+CIRCLE           276            D36
+CIRCLE           282            D37
+RECTANGLE         20        40   0.00000  D40
+RECTANGLE         22        22   0.00000  D10
+RECTANGLE         26        46   0.00000  D42
+RECTANGLE         28        28   0.00000  D11
+RECTANGLE         40        20   0.00000  D41
+RECTANGLE         46        26   0.00000  D43
+RECTANGLE         47        67   0.00000  D44
+RECTANGLE         51        59   0.00000  D17
+RECTANGLE         53        73   0.00000  D46
+RECTANGLE         57        65   0.00000  D19
+RECTANGLE         59        51   0.00000  D16
+RECTANGLE         59        83   0.00000  D12
+RECTANGLE         60       102   0.00000  D49
+RECTANGLE         65        57   0.00000  D18
+RECTANGLE         65        89   0.00000  D14
+RECTANGLE         66       108   0.00000  D51
+RECTANGLE         67        47   0.00000  D45
+RECTANGLE         73        53   0.00000  D47
+RECTANGLE         83        59   0.00000  D13
+RECTANGLE         89        65   0.00000  D15
+RECTANGLE        102        60   0.00000  D48
+Thu May 14 15:43:47 2015				Page     2
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE        108        66   0.00000  D50
+FLASH     T117O97I15G          0.00000  D29
+FLASH     T203O183I15G         0.00000  D35
+FLASH     T8O6I2G              0.00000  D38
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+ WARNING: 0 width  line found at (-125.00 2015.35)
+         ... using undefined line width of 5.00
+  Multiple 0 width  lines; all will be treated the same as the first.
+
+
+
+====>     TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    RECTANGLE        102     60                    D48                 
+    RECTANGLE         83     59                    D13                 
+    RECTANGLE         59     51                    D16                 
+    RECTANGLE         47     67                    D44                 
+    RECTANGLE         22     22                    D10                 
+    RECTANGLE         20     40                    D40                 
+    CIRCLE           276                           D36                 
+    CIRCLE           197                           D30                 
+    CIRCLE            47                           D33                 
+    CIRCLE            40                           D20                 
+    CIRCLE            26                           D22                 
+    CIRCLE            24                           D39                 
+    LINE              25                           D57                 
+    LINE              24                           D58                 
+    LINE              20                           D60                 
+    LINE              15                           D59                 
+    LINE              10                           D56                 
+    LINE               8                           D55                 
+    LINE               5                           D52                 
+    LINE               4                           D53                 
+
+
+================================================================
+     PROCESSING FILM < BOT >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    CIRCLE           276                           D36                 
+    CIRCLE           197                           D30                 
+    CIRCLE            47                           D33                 
+    CIRCLE            24                           D39                 
+    LINE              20                           D60                 
+    LINE              10                           D56                 
+    LINE               5                           D52                 
+    LINE               4                           D53                 
+
+
+================================================================
+     PROCESSING FILM < MASK_TOP >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/MASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     MASK_TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    RECTANGLE        108     66                    D50                 
+    RECTANGLE         89     65                    D15                 
+    RECTANGLE         65     57                    D18                 
+    RECTANGLE         53     73                    D46                 
+    RECTANGLE         28     28                    D11                 
+    RECTANGLE         26     46                    D42                 
+    CIRCLE           282                           D37                 
+    CIRCLE           203                           D31                 
+    CIRCLE           118                           D21                 
+    CIRCLE            53                           D34                 
+    CIRCLE            32                           D23                 
+    LINE              15                           D59                 
+    LINE              10                           D56                 
+    LINE               8                           D55                 
+    LINE               5                           D52                 
+    LINE               4                           D53                 
+
+
+================================================================
+     PROCESSING FILM < MASK_BOT >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/MASK_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     MASK_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    CIRCLE           282                           D37                 
+    CIRCLE           203                           D31                 
+    CIRCLE            53                           D34                 
+    LINE              10                           D56                 
+    LINE               5                           D52                 
+
+
+================================================================
+     PROCESSING FILM < PAST_TOP >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/PAST_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     PAST_TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    RECTANGLE        102     60                    D48                 
+    RECTANGLE         83     59                    D13                 
+    RECTANGLE         59     51                    D16                 
+    RECTANGLE         47     67                    D44                 
+    RECTANGLE         22     22                    D10                 
+    RECTANGLE         20     40                    D40                 
+    CIRCLE            40                           D20                 
+    LINE              15                           D59                 
+    LINE              10                           D56                 
+    LINE               8                           D55                 
+    LINE               5                           D52                 
+    LINE               4                           D53                 
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     SILK_TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              25                           D57                 
+    LINE              15                           D59                 
+    LINE              10                           D56                 
+    LINE               8                           D55                 
+    LINE               5                           D52                 
+    LINE               4                           D53                 
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < F:/work/Eileen/ir/ir_pcb_back/002/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     DRILL created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              10                           D56                 
+    LINE               5                           D52                 
+
+
+
+    TOTAL APERTURES USED
+    --------------------
+    CIRCLE            32                           D23                 
+    CIRCLE            53                           D34                 
+    CIRCLE           118                           D21                 
+    CIRCLE           203                           D31                 
+    CIRCLE           282                           D37                 
+    RECTANGLE         26     46                    D42                 
+    RECTANGLE         28     28                    D11                 
+    RECTANGLE         53     73                    D46                 
+    RECTANGLE         65     57                    D18                 
+    RECTANGLE         89     65                    D15                 
+    RECTANGLE        108     66                    D50                 
+    LINE               4                           D53                 
+    LINE               5                           D52                 
+    LINE               8                           D55                 
+    LINE              10                           D56                 
+    LINE              15                           D59                 
+    LINE              20                           D60                 
+    LINE              24                           D58                 
+    LINE              25                           D57                 
+    CIRCLE            24                           D39                 
+    CIRCLE            26                           D22                 
+    CIRCLE            40                           D20                 
+    CIRCLE            47                           D33                 
+    CIRCLE           197                           D30                 
+    CIRCLE           276                           D36                 
+    RECTANGLE         20     40                    D40                 
+    RECTANGLE         22     22                    D10                 
+    RECTANGLE         47     67                    D44                 
+    RECTANGLE         59     51                    D16                 
+    RECTANGLE         83     59                    D13                 
+    RECTANGLE        102     60                    D48                 
+
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOT created with warnings
+        MASK_TOP created with warnings
+        MASK_BOT created with warnings
+        PAST_TOP created with warnings
+        SILK_TOP created with warnings
+        DRILL created with warnings
+
+ ARTWORK had warnings

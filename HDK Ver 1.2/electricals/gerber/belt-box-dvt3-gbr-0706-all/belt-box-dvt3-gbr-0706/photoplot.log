@@ -1,0 +1,1559 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : belt-box-dvt3-0706pm14.brd                    )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Jul 06 14:14:28 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER6X00
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             240000 160000
+    FORMAT                5.4
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    G-CODES               NO
+    OPTIMIZE              YES
+    STATIONS-PER-WHEEL    999
+    COORDINATES           ABSOLUTE
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+
+ WARNING: database resolution exceeds the resolution of the 
+      output coordinates (see FORMAT in parameter file).
+      Some roundoff of coordinates may occur unless the number
+      of decimal places in the output file is increased.
+
+Mon Jul 06 14:14:28 2015				Page     1
+
+Photoplot log file
+Results from aperture table.
+
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               1            D334
+LINE               2            D331
+LINE               4            D330
+LINE             4.5            D350
+LINE               5            D329
+LINE            5.98            D349
+LINE               6            D335
+LINE               7            D343
+LINE             7.8            D344
+LINE               8            D332
+LINE              10            D74
+LINE              12            D333
+LINE              14            D348
+LINE              15            D338
+LINE              16            D77
+LINE              18            D337
+LINE              19            D346
+LINE              20            D336
+LINE              21            D340
+LINE              22            D345
+LINE              24            D339
+LINE              25            D283
+LINE              26            D62
+LINE              28            D342
+LINE              30            D341
+LINE              31            D286
+LINE              32            D65
+LINE              40            D347
+LINE              43            D43
+LINE              46            D46
+LINE              48            D23
+LINE              49            D167
+LINE              50            D39
+LINE              54            D19
+LINE              58            D49
+LINE              59            D53
+LINE              61            D150
+LINE              63            D111
+LINE              65            D56
+LINE              69            D114
+LINE              73            D107
+LINE              79            D187
+LINE              85            D190
+CIRCLE            18            D85
+CIRCLE            20            D133
+CIRCLE            24            D159
+CIRCLE            26            D83
+Mon Jul 06 14:14:28 2015				Page     2
+
+Photoplot log file
+Results from aperture table.
+
+CIRCLE            28            D131
+CIRCLE            32            D203
+CIRCLE            40            D158
+CIRCLE            44            D178
+CIRCLE            46            D37
+CIRCLE            47            D162
+CIRCLE            50            D179
+CIRCLE            51            D163
+CIRCLE            52            D38
+CIRCLE            60            D174
+CIRCLE            62            D176
+CIRCLE            66            D35
+CIRCLE            67            D160
+CIRCLE            73            D17
+CIRCLE            75            D171
+CIRCLE            83            D14
+CIRCLE           118            D204
+CIRCLE           122            D89
+CIRCLE           132            D86
+CIRCLE           236            D88
+CIRCLE           242            D90
+SQUARE            25   0.00000            D251
+SQUARE            31   0.00000            D252
+SQUARE            60   0.00000            D173
+SQUARE            66   0.00000            D175
+SQUARE            73   0.00000            D16
+SQUARE            79   0.00000            D18
+SQUARE         137.8   0.00000            D319
+SQUARE        141.73   0.00000            D320
+SQUARE           252   0.00000            D327
+SQUARE           258   0.00000            D328
+SQUARE           280   0.00000            D321
+SQUARE           284   0.00000            D322
+RECTANGLE       7.87     23.62   0.00000  D316
+RECTANGLE          8        27   0.00000  D105
+RECTANGLE          8        39   0.00000  D323
+RECTANGLE      11.81     27.56   0.00000  D318
+RECTANGLE         12        20   0.00000  D271
+RECTANGLE         12        43   0.00000  D325
+RECTANGLE         12        51   0.00000  D95
+RECTANGLE         14        33   0.00000  D306
+RECTANGLE         14        63   0.00000  D311
+RECTANGLE         16        27   0.00000  D302
+RECTANGLE         16        35   0.00000  D263
+RECTANGLE         16        53   0.00000  D154
+RECTANGLE         16        61   0.00000  D103
+RECTANGLE         16        65   0.00000  D10
+RECTANGLE         18        25   0.00000  D247
+RECTANGLE         18        26   0.00000  D273
+RECTANGLE         18        57   0.00000  D97
+RECTANGLE         18        85   0.00000  D297
+RECTANGLE         20        12   0.00000  D270
+Mon Jul 06 14:14:28 2015				Page     3
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE         20        69   0.00000  D313
+RECTANGLE         21        69   0.00000  D289
+RECTANGLE         22        22   0.00000  D245
+RECTANGLE         22        33   0.00000  D304
+RECTANGLE         22        41   0.00000  D265
+RECTANGLE         22        59   0.00000  D156
+RECTANGLE         22        71   0.00000  D12
+RECTANGLE      23.62      7.87   0.00000  D315
+RECTANGLE         24        31   0.00000  D249
+RECTANGLE         24        91   0.00000  D299
+RECTANGLE         25        18   0.00000  D248
+RECTANGLE         25        73   0.00000  D291
+RECTANGLE         26        18   0.00000  D272
+RECTANGLE         26        26   0.00000  D193
+RECTANGLE         27         8   0.00000  D106
+RECTANGLE         27        16   0.00000  D301
+RECTANGLE      27.56     11.81   0.00000  D317
+RECTANGLE         28        28   0.00000  D246
+RECTANGLE         28        40   0.00000  D279
+RECTANGLE         28        91   0.00000  D199
+RECTANGLE         30        50   0.00000  D99
+RECTANGLE         31        24   0.00000  D250
+RECTANGLE         31        71   0.00000  D146
+RECTANGLE         32        32   0.00000  D194
+RECTANGLE         32        44   0.00000  D281
+RECTANGLE         33        14   0.00000  D305
+RECTANGLE         33        22   0.00000  D303
+RECTANGLE         33        53   0.00000  D101
+RECTANGLE         34        40   0.00000  D71
+RECTANGLE         34        97   0.00000  D201
+RECTANGLE         35        16   0.00000  D262
+RECTANGLE         35        40   0.00000  D242
+RECTANGLE         37        77   0.00000  D148
+RECTANGLE         39         8   0.00000  D324
+RECTANGLE         39        71   0.00000  D134
+RECTANGLE         39        91   0.00000  D258
+RECTANGLE         40        28   0.00000  D280
+RECTANGLE         40        34   0.00000  D70
+RECTANGLE         40        35   0.00000  D241
+RECTANGLE         40        40   0.00000  D239
+RECTANGLE         40        46   0.00000  D73
+RECTANGLE         40        48   0.00000  D274
+RECTANGLE         40        50   0.00000  D253
+RECTANGLE         41        22   0.00000  D264
+RECTANGLE         41        46   0.00000  D244
+RECTANGLE         43        12   0.00000  D326
+RECTANGLE         44        32   0.00000  D282
+RECTANGLE         45        55   0.00000  D209
+RECTANGLE         45        77   0.00000  D136
+RECTANGLE         45        97   0.00000  D260
+RECTANGLE         46        40   0.00000  D72
+RECTANGLE         46        41   0.00000  D243
+Mon Jul 06 14:14:28 2015				Page     4
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE         46        46   0.00000  D240
+RECTANGLE         46        54   0.00000  D276
+RECTANGLE         46        56   0.00000  D255
+RECTANGLE         47        55   0.00000  D267
+RECTANGLE         47        71   0.00000  D138
+RECTANGLE         47       146   0.00000  D229
+RECTANGLE         48        40   0.00000  D275
+RECTANGLE         48        47   0.00000  D82
+RECTANGLE         48        48   0.00000  D278
+RECTANGLE         50        30   0.00000  D100
+RECTANGLE         50        40   0.00000  D254
+RECTANGLE         50        65   0.00000  D213
+RECTANGLE         50       100   0.00000  D205
+RECTANGLE         51        12   0.00000  D96
+RECTANGLE         51        61   0.00000  D211
+RECTANGLE         53        16   0.00000  D155
+RECTANGLE         53        33   0.00000  D102
+RECTANGLE         53        56   0.00000  D234
+RECTANGLE         53        57   0.00000  D225
+RECTANGLE         53        61   0.00000  D269
+RECTANGLE         53        77   0.00000  D140
+RECTANGLE         53       152   0.00000  D231
+RECTANGLE         54        46   0.00000  D277
+RECTANGLE         54        54   0.00000  D81
+RECTANGLE         55        45   0.00000  D210
+RECTANGLE         55        47   0.00000  D266
+RECTANGLE         56        46   0.00000  D256
+RECTANGLE         56        53   0.00000  D233
+RECTANGLE         56        71   0.00000  D215
+RECTANGLE         56       106   0.00000  D207
+RECTANGLE         57        18   0.00000  D98
+RECTANGLE         57        53   0.00000  D226
+RECTANGLE         59        22   0.00000  D157
+RECTANGLE         59        63   0.00000  D227
+RECTANGLE         61        16   0.00000  D104
+RECTANGLE         61        51   0.00000  D212
+RECTANGLE         61        53   0.00000  D268
+RECTANGLE         63        14   0.00000  D312
+RECTANGLE         63        59   0.00000  D228
+RECTANGLE         63        94   0.00000  D235
+RECTANGLE         63       106   0.00000  D217
+RECTANGLE         65        16   0.00000  D11
+RECTANGLE         65        50   0.00000  D214
+RECTANGLE         67        98   0.00000  D237
+RECTANGLE         69        20   0.00000  D314
+RECTANGLE         69        21   0.00000  D290
+RECTANGLE         69       112   0.00000  D219
+RECTANGLE         71        22   0.00000  D13
+RECTANGLE         71        31   0.00000  D147
+RECTANGLE         71        39   0.00000  D135
+RECTANGLE         71        47   0.00000  D139
+RECTANGLE         71        56   0.00000  D216
+Mon Jul 06 14:14:28 2015				Page     5
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE         71        75   0.00000  D143
+RECTANGLE         71        96   0.00000  D308
+RECTANGLE         73        25   0.00000  D292
+RECTANGLE         75        71   0.00000  D142
+RECTANGLE         77        37   0.00000  D149
+RECTANGLE         77        45   0.00000  D137
+RECTANGLE         77        53   0.00000  D141
+RECTANGLE         77        81   0.00000  D145
+RECTANGLE         77       102   0.00000  D310
+RECTANGLE         81        77   0.00000  D144
+RECTANGLE         85        18   0.00000  D298
+RECTANGLE         85        87   0.00000  D91
+RECTANGLE         87        85   0.00000  D92
+RECTANGLE         91        24   0.00000  D300
+RECTANGLE         91        28   0.00000  D200
+RECTANGLE         91        39   0.00000  D259
+RECTANGLE         91        93   0.00000  D93
+RECTANGLE         93        91   0.00000  D94
+RECTANGLE         94        63   0.00000  D236
+RECTANGLE         95       122   0.00000  D294
+RECTANGLE         96        71   0.00000  D307
+RECTANGLE         97        34   0.00000  D202
+RECTANGLE         97        45   0.00000  D261
+RECTANGLE         98        67   0.00000  D238
+RECTANGLE         98       138   0.00000  D221
+RECTANGLE        100        50   0.00000  D206
+RECTANGLE        101       128   0.00000  D296
+RECTANGLE        102        77   0.00000  D309
+RECTANGLE        104       144   0.00000  D223
+RECTANGLE        106        56   0.00000  D208
+RECTANGLE        106        63   0.00000  D218
+RECTANGLE        112        69   0.00000  D220
+RECTANGLE        122        95   0.00000  D293
+RECTANGLE        128       101   0.00000  D295
+RECTANGLE        138        98   0.00000  D222
+RECTANGLE        144       104   0.00000  D224
+RECTANGLE        146        47   0.00000  D230
+RECTANGLE        152        53   0.00000  D232
+RECTANGLE        220       252   0.00000  D195
+RECTANGLE        226       258   0.00000  D197
+RECTANGLE        252       220   0.00000  D196
+RECTANGLE        258       226   0.00000  D198
+RECTANGLE        310       130   0.00000  D257
+OBLONG            10        40   0.00000  D75
+OBLONG            16        46   0.00000  D78
+OBLONG            25        70   0.00000  D284
+OBLONG            26        34   0.00000  D127
+OBLONG            26        52   0.00000  D63
+OBLONG            31        76   0.00000  D287
+OBLONG            32        40   0.00000  D129
+OBLONG            32        58   0.00000  D66
+OBLONG            34        26   0.00000  D128
+Mon Jul 06 14:14:28 2015				Page     6
+
+Photoplot log file
+Results from aperture table.
+
+OBLONG            34        40   0.00000  D68
+OBLONG            40        10   0.00000  D76
+OBLONG            40        32   0.00000  D130
+OBLONG            40        46   0.00000  D69
+OBLONG            43        59   0.00000  D44
+OBLONG            46        16   0.00000  D79
+OBLONG            46        54   0.00000  D124
+OBLONG            46        65   0.00000  D47
+OBLONG            46        70   0.00000  D59
+OBLONG            48        47   0.00000  D80
+OBLONG            48        79   0.00000  D24
+OBLONG            48        87   0.00000  D31
+OBLONG            48       103   0.00000  D183
+OBLONG            49        65   0.00000  D168
+OBLONG            50        69   0.00000  D164
+OBLONG            50        77   0.00000  D40
+OBLONG            52        26   0.00000  D64
+OBLONG            54        46   0.00000  D125
+OBLONG            54        85   0.00000  D26
+OBLONG            54        93   0.00000  D33
+OBLONG            54        99   0.00000  D20
+OBLONG            54       101   0.00000  D28
+OBLONG            54       109   0.00000  D185
+OBLONG            58        32   0.00000  D67
+OBLONG            58        79   0.00000  D50
+OBLONG            58       113   0.00000  D180
+OBLONG            59        43   0.00000  D45
+OBLONG            59        79   0.00000  D54
+OBLONG            61       103   0.00000  D151
+OBLONG            63        75   0.00000  D120
+OBLONG            63       110   0.00000  D112
+OBLONG            65        46   0.00000  D48
+OBLONG            65        49   0.00000  D169
+OBLONG            65        85   0.00000  D57
+OBLONG            69        50   0.00000  D165
+OBLONG            69        81   0.00000  D122
+OBLONG            69       116   0.00000  D115
+OBLONG            70        25   0.00000  D285
+OBLONG            70        46   0.00000  D60
+OBLONG            73        85   0.00000  D117
+OBLONG            73       121   0.00000  D108
+OBLONG            75        63   0.00000  D121
+OBLONG            76        31   0.00000  D288
+OBLONG            77        50   0.00000  D41
+OBLONG            79        48   0.00000  D25
+OBLONG            79        58   0.00000  D51
+OBLONG            79        59   0.00000  D55
+OBLONG            79       195   0.00000  D188
+OBLONG            81        69   0.00000  D123
+OBLONG            85        54   0.00000  D27
+OBLONG            85        65   0.00000  D58
+OBLONG            85        73   0.00000  D118
+Mon Jul 06 14:14:28 2015				Page     7
+
+Photoplot log file
+Results from aperture table.
+
+OBLONG            85       201   0.00000  D191
+OBLONG            87        48   0.00000  D32
+OBLONG            93        54   0.00000  D34
+OBLONG            99        54   0.00000  D21
+OBLONG           101        54   0.00000  D29
+OBLONG           103        48   0.00000  D184
+OBLONG           103        61   0.00000  D152
+OBLONG           109        54   0.00000  D186
+OBLONG           110        63   0.00000  D113
+OBLONG           113        58   0.00000  D181
+OBLONG           116        69   0.00000  D116
+OBLONG           121        73   0.00000  D109
+OBLONG           195        79   0.00000  D189
+OBLONG           201        85   0.00000  D192
+FLASH     RT46X54X0X4X15X5     0.00000  D126
+FLASH     RT46X70X0X4X15X5     0.00000  D61
+FLASH     RT50X69X0X4X15X5     0.00000  D166
+FLASH     RT50X77X0X4X15X5     0.00000  D42
+FLASH     RT54X101X0X4X15X5    0.00000  D30
+FLASH     RT54X85X0X4X15X5     0.00000  D170
+FLASH     RT54X99X0X4X15X5     0.00000  D22
+FLASH     RT58X113X0X4X15X5    0.00000  D182
+FLASH     RT58X79X0X4X15X5     0.00000  D52
+FLASH     RT61X89X0X4X15X5     0.00000  D153
+FLASH     RT73X121X0X4X15X5    0.00000  D110
+FLASH     RT73X85X0X4X15X5     0.00000  D119
+FLASH     T132O112I15G         0.00000  D87
+FLASH     T62O52I15G           0.00000  D177
+FLASH     T66O56I15G           0.00000  D36
+FLASH     T6O4I2G              0.00000  D84
+FLASH     T75O65I15G           0.00000  D172
+FLASH     T83O73I15G           0.00000  D15
+FLASH     T8O6I2G              0.00000  D132
+FLASH     TR63X77X15-45        0.00000  D161
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < F:/work/Eileen/box/dvt3/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+ WARNING: 0 width text line found at (1180.00 -1140.00)
+         ... using undefined line width of 5.00
+  Multiple 0 width text lines; all will be treated the same as the first.
+
+ WARNING: 0 width  line found at (-775.00 2605.91)
+         ... using undefined line width of 5.00
+  Multiple 0 width  lines; all will be treated the same as the first.
+
+
+
+====>     TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            79    195                    D188                
+    OBLONG            63    110                    D112                
+    OBLONG            63     75                    D120                
+    OBLONG            59     79                    D54                 
+    OBLONG            48    103                    D183                
+    OBLONG            48     87                    D31                 
+    OBLONG            48     79                    D24                 
+    OBLONG            43     59                    D44                 
+    OBLONG            26     52                    D63                 
+    OBLONG            25     70                    D284                
+    RECTANGLE        252    220                    D196                
+    RECTANGLE        138     98                    D222                
+    RECTANGLE        100     50                    D206                
+    RECTANGLE         96     71                    D307                
+    RECTANGLE         95    122                    D294                
+    RECTANGLE         94     63                    D236                
+    RECTANGLE         91     39                    D259                
+    RECTANGLE         91     28                    D200                
+    RECTANGLE         87     85                    D92                 
+    RECTANGLE         85     18                    D298                
+    RECTANGLE         75     71                    D142                
+    RECTANGLE         55     45                    D210                
+    RECTANGLE         53     57                    D225                
+    RECTANGLE         53     56                    D234                
+    RECTANGLE         51     12                    D96                 
+    RECTANGLE         50     65                    D213                
+    RECTANGLE         48     48                    D278                
+    RECTANGLE         48     40                    D275                
+    RECTANGLE         47     71                    D138                
+    RECTANGLE         45     55                    D209                
+    RECTANGLE         40     40                    D239                
+    RECTANGLE         40     35                    D241                
+    RECTANGLE         40     34                    D70                 
+    RECTANGLE         39     71                    D134                
+    RECTANGLE         39      8                    D324                
+    RECTANGLE         35     40                    D242                
+    RECTANGLE         34     40                    D71                 
+    RECTANGLE         31     71                    D146                
+    RECTANGLE         30     50                    D99                 
+    RECTANGLE         28     40                    D279                
+    RECTANGLE         26     26                    D193                
+    RECTANGLE         25     18                    D248                
+    RECTANGLE         22     22                    D245                
+    RECTANGLE         16     65                    D10                 
+    RECTANGLE         16     61                    D103                
+    RECTANGLE         16     35                    D263                
+    RECTANGLE         16     27                    D302                
+    RECTANGLE         14     63                    D311                
+    RECTANGLE         12     20                    D271                
+    RECTANGLE          8     39                    D323                
+    RECTANGLE          8     27                    D105                
+    SQUARE           280                           D321                
+    SQUARE            73                           D16                 
+    SQUARE            25                           D251                
+    CIRCLE           236                           D88                 
+    CIRCLE            47                           D162                
+    CIRCLE            46                           D37                 
+    CIRCLE            40                           D158                
+    CIRCLE            26                           D83                 
+    CIRCLE            24                           D159                
+    CIRCLE            20                           D133                
+    CIRCLE            18                           D85                 
+    LINE              85                           D190                
+    LINE              43                           D43                 
+    LINE              30                           D341                
+    LINE              28                           D342                
+    LINE              24                           D339                
+    LINE              22                           D345                
+    LINE              20                           D336                
+    LINE              19                           D346                
+    LINE              18                           D337                
+    LINE              16                           D77                 
+    LINE              15                           D338                
+    LINE              14                           D348                
+    LINE              12                           D333                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < GND >
+     TO FILE < F:/work/Eileen/box/dvt3/GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      suppress shape fill on neg film ... no
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... YES
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+  WARNING: The following padstacks and their flashnames have various
+      rotations, but will be flashed using the non-rotated
+      aperture, due to the ROTATE APER param being turned OFF.
+      Check each flash for symmetry to insure that its 
+      appearance is the same at each rotation.
+ (FLASHNAME)            (ROTATION)   (PADSTACK NAME)     
+ RT50X77X0X4X15X5          180.000   O43X59DO20X47       
+ RT54X101X0X4X15X5         180.000   O48X87DO24X71       
+ RT54X99X0X4X15X5          180.000   O48X79DO24X63       
+ RT58X113X0X4X15X5         180.000   O48X103DO28X83      
+ RT58X113X0X4X15X5         180.000   O79X195DO28X83UP31  
+ T66O56I15G                180.000   C46D36              
+ T8O6I2G                    90.000   VIA24               
+ T8O6I2G                   180.000   VIA24               
+
+
+  WARNING: The following padstacks and their flashnames have instances
+      where the pad is mirrored, but will be flashed using the non-mirrored
+      aperture.   Check each flash for symmetry to insure that its 
+      appearance is the same whether mirrored or not.
+ (FLASHNAME)            (PADSTACK NAME)     
+ T8O6I2G                VIA24                  at (1215.00,1155.00) and 23 other places.
+
+
+====>     GND created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    FLASH         T8O6I2G                          D132                
+    FLASH         T66O56I15G                       D36                 
+    FLASH         T132O112I15G                     D87                 
+    FLASH         RT73X85X0X4X15X5                 D119                
+    FLASH         RT73X121X0X4X15X5                D110                
+    FLASH         RT58X79X0X4X15X5                 D52                 
+    FLASH         RT58X113X0X4X15X5                D182                
+    FLASH         RT54X99X0X4X15X5                 D22                 
+    FLASH         RT54X101X0X4X15X5                D30                 
+    FLASH         RT50X77X0X4X15X5                 D42                 
+    OBLONG            54     99                    D20                 
+    OBLONG            50     77                    D40                 
+    OBLONG            46     70                    D59                 
+    CIRCLE            83                           D14                 
+    CIRCLE            67                           D160                
+    CIRCLE            66                           D35                 
+    CIRCLE            40                           D158                
+    CIRCLE            28                           D131                
+    CIRCLE            26                           D83                 
+    LINE              20                           D336                
+    LINE              10                           D74                 
+    LINE               5                           D329                
+
+
+================================================================
+     PROCESSING FILM < IN1 >
+     TO FILE < F:/work/Eileen/box/dvt3/IN1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     IN1 created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            79    195                    D188                
+    OBLONG            63    110                    D112                
+    OBLONG            63     75                    D120                
+    OBLONG            59     79                    D54                 
+    OBLONG            48    103                    D183                
+    OBLONG            48     87                    D31                 
+    OBLONG            48     79                    D24                 
+    OBLONG            43     59                    D44                 
+    OBLONG            26     52                    D63                 
+    CIRCLE           236                           D88                 
+    CIRCLE           122                           D89                 
+    CIRCLE            73                           D17                 
+    CIRCLE            47                           D162                
+    CIRCLE            46                           D37                 
+    CIRCLE            24                           D159                
+    CIRCLE            20                           D133                
+    CIRCLE            18                           D85                 
+    LINE              85                           D190                
+    LINE              43                           D43                 
+    LINE              24                           D339                
+    LINE              20                           D336                
+    LINE              19                           D346                
+    LINE              15                           D338                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < IN2 >
+     TO FILE < F:/work/Eileen/box/dvt3/IN2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     IN2 created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            79    195                    D188                
+    OBLONG            63    110                    D112                
+    OBLONG            63     75                    D120                
+    OBLONG            59     79                    D54                 
+    OBLONG            48    103                    D183                
+    OBLONG            48     87                    D31                 
+    OBLONG            48     79                    D24                 
+    OBLONG            43     59                    D44                 
+    OBLONG            26     52                    D63                 
+    CIRCLE           236                           D88                 
+    CIRCLE           122                           D89                 
+    CIRCLE            73                           D17                 
+    CIRCLE            47                           D162                
+    CIRCLE            46                           D37                 
+    CIRCLE            24                           D159                
+    CIRCLE            20                           D133                
+    CIRCLE            18                           D85                 
+    LINE              20                           D336                
+    LINE              19                           D346                
+    LINE              15                           D338                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               5                           D329                
+    LINE             4.5                           D350                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < VCC >
+     TO FILE < F:/work/Eileen/box/dvt3/VCC.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      suppress shape fill on neg film ... no
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... YES
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+  WARNING: The following padstacks and their flashnames have various
+      rotations, but will be flashed using the non-rotated
+      aperture, due to the ROTATE APER param being turned OFF.
+      Check each flash for symmetry to insure that its 
+      appearance is the same at each rotation.
+ (FLASHNAME)            (ROTATION)   (PADSTACK NAME)     
+ RT50X77X0X4X15X5          180.000   O43X59DO20X47       
+ RT54X101X0X4X15X5         180.000   O48X87DO24X71       
+ RT54X99X0X4X15X5          180.000   O48X79DO24X63       
+ RT58X113X0X4X15X5         180.000   O48X103DO28X83      
+ RT58X113X0X4X15X5         180.000   O79X195DO28X83UP31  
+ T66O56I15G                180.000   C46D36              
+ T83O73I15G                180.000   S73D53              
+ T8O6I2G                    90.000   VIA24               
+ T8O6I2G                   180.000   VIA24               
+
+
+  WARNING: The following padstacks and their flashnames have instances
+      where the pad is mirrored, but will be flashed using the non-mirrored
+      aperture.   Check each flash for symmetry to insure that its 
+      appearance is the same whether mirrored or not.
+ (FLASHNAME)            (PADSTACK NAME)     
+ T8O6I2G                VIA24                  at (1720.00,1245.00)
+
+
+====>     VCC created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    FLASH         T8O6I2G                          D132                
+    FLASH         T83O73I15G                       D15                 
+    FLASH         T66O56I15G                       D36                 
+    FLASH         T132O112I15G                     D87                 
+    FLASH         RT73X85X0X4X15X5                 D119                
+    FLASH         RT73X121X0X4X15X5                D110                
+    FLASH         RT58X79X0X4X15X5                 D52                 
+    FLASH         RT58X113X0X4X15X5                D182                
+    FLASH         RT54X99X0X4X15X5                 D22                 
+    FLASH         RT54X101X0X4X15X5                D30                 
+    FLASH         RT50X77X0X4X15X5                 D42                 
+    OBLONG            54    101                    D28                 
+    OBLONG            54     99                    D20                 
+    OBLONG            50     77                    D40                 
+    OBLONG            46     70                    D59                 
+    CIRCLE           132                           D86                 
+    CIRCLE            67                           D160                
+    CIRCLE            66                           D35                 
+    CIRCLE            40                           D158                
+    CIRCLE            28                           D131                
+    CIRCLE            26                           D83                 
+    LINE              20                           D336                
+    LINE              10                           D74                 
+    LINE               5                           D329                
+
+
+================================================================
+     PROCESSING FILM < BOT >
+     TO FILE < F:/work/Eileen/box/dvt3/BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            79    195                    D188                
+    OBLONG            70     25                    D285                
+    OBLONG            63    110                    D112                
+    OBLONG            63     75                    D120                
+    OBLONG            59     79                    D54                 
+    OBLONG            48    103                    D183                
+    OBLONG            48     87                    D31                 
+    OBLONG            48     79                    D24                 
+    OBLONG            43     59                    D44                 
+    OBLONG            40     10                    D76                 
+    OBLONG            26     52                    D63                 
+    OBLONG            25     70                    D284                
+    OBLONG            10     40                    D75                 
+    RECTANGLE        106     63                    D218                
+    RECTANGLE         69     21                    D290                
+    RECTANGLE         65     50                    D214                
+    RECTANGLE         53     56                    D234                
+    RECTANGLE         50    100                    D205                
+    RECTANGLE         50     65                    D213                
+    RECTANGLE         47    146                    D229                
+    RECTANGLE         47     55                    D267                
+    RECTANGLE         45     55                    D209                
+    RECTANGLE         40     35                    D241                
+    RECTANGLE         35     40                    D242                
+    RECTANGLE         30     50                    D99                 
+    RECTANGLE         27     16                    D301                
+    RECTANGLE         27      8                    D106                
+    RECTANGLE         26     26                    D193                
+    RECTANGLE         25     18                    D248                
+    RECTANGLE      23.62   7.87                    D315                
+    RECTANGLE         22     22                    D245                
+    RECTANGLE         18     25                    D247                
+    RECTANGLE         16     61                    D103                
+    RECTANGLE         16     35                    D263                
+    RECTANGLE          8     27                    D105                
+    RECTANGLE       7.87  23.62                    D316                
+    SQUARE           252                           D327                
+    SQUARE         137.8                           D319                
+    SQUARE            73                           D16                 
+    SQUARE            25                           D251                
+    CIRCLE           236                           D88                 
+    CIRCLE            47                           D162                
+    CIRCLE            46                           D37                 
+    CIRCLE            40                           D158                
+    CIRCLE            26                           D83                 
+    CIRCLE            24                           D159                
+    CIRCLE            20                           D133                
+    CIRCLE            18                           D85                 
+    LINE              85                           D190                
+    LINE              43                           D43                 
+    LINE              30                           D341                
+    LINE              24                           D339                
+    LINE              22                           D345                
+    LINE              21                           D340                
+    LINE              20                           D336                
+    LINE              19                           D346                
+    LINE              18                           D337                
+    LINE              16                           D77                 
+    LINE              15                           D338                
+    LINE              12                           D333                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE             7.8                           D344                
+    LINE               7                           D343                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < MASK_TOP >
+     TO FILE < F:/work/Eileen/box/dvt3/MASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     MASK_TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            85    201                    D191                
+    OBLONG            69    116                    D115                
+    OBLONG            69     81                    D122                
+    OBLONG            65     85                    D57                 
+    OBLONG            54    109                    D185                
+    OBLONG            54     93                    D33                 
+    OBLONG            54     85                    D26                 
+    OBLONG            46     65                    D47                 
+    OBLONG            32     58                    D66                 
+    OBLONG            31     76                    D287                
+    RECTANGLE        258    226                    D198                
+    RECTANGLE        144    104                    D224                
+    RECTANGLE        106     56                    D208                
+    RECTANGLE        102     77                    D309                
+    RECTANGLE        101    128                    D296                
+    RECTANGLE         98     67                    D238                
+    RECTANGLE         97     45                    D261                
+    RECTANGLE         97     34                    D202                
+    RECTANGLE         93     91                    D94                 
+    RECTANGLE         91     24                    D300                
+    RECTANGLE         81     77                    D144                
+    RECTANGLE         61     51                    D212                
+    RECTANGLE         59     63                    D227                
+    RECTANGLE         57     18                    D98                 
+    RECTANGLE         56     71                    D215                
+    RECTANGLE         54     54                    D81                 
+    RECTANGLE         54     46                    D277                
+    RECTANGLE         53     77                    D140                
+    RECTANGLE         51     61                    D211                
+    RECTANGLE         46     46                    D240                
+    RECTANGLE         46     41                    D243                
+    RECTANGLE         45     77                    D136                
+    RECTANGLE         43     12                    D326                
+    RECTANGLE         41     46                    D244                
+    RECTANGLE         40     46                    D73                 
+    RECTANGLE         37     77                    D148                
+    RECTANGLE         33     53                    D101                
+    RECTANGLE         32     44                    D281                
+    RECTANGLE         32     32                    D194                
+    RECTANGLE         31     24                    D250                
+    RECTANGLE         28     28                    D246                
+    RECTANGLE         22     71                    D12                 
+    RECTANGLE         22     41                    D265                
+    RECTANGLE         22     33                    D304                
+    RECTANGLE         20     69                    D313                
+    RECTANGLE         18     26                    D273                
+    RECTANGLE         16     61                    D103                
+    RECTANGLE         14     33                    D306                
+    RECTANGLE         12     43                    D325                
+    RECTANGLE          8     27                    D105                
+    SQUARE           284                           D322                
+    SQUARE            79                           D18                 
+    SQUARE            31                           D252                
+    CIRCLE           242                           D90                 
+    CIRCLE           118                           D204                
+    CIRCLE            52                           D38                 
+    CIRCLE            51                           D163                
+    CIRCLE            32                           D203                
+    LINE              19                           D346                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < MASK_BOT >
+     TO FILE < F:/work/Eileen/box/dvt3/MASK_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     MASK_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            85    201                    D191                
+    OBLONG            76     31                    D288                
+    OBLONG            69    116                    D115                
+    OBLONG            69     81                    D122                
+    OBLONG            65     85                    D57                 
+    OBLONG            54    109                    D185                
+    OBLONG            54     93                    D33                 
+    OBLONG            54     85                    D26                 
+    OBLONG            46     65                    D47                 
+    OBLONG            46     16                    D79                 
+    OBLONG            32     58                    D66                 
+    OBLONG            31     76                    D287                
+    OBLONG            16     46                    D78                 
+    RECTANGLE        112     69                    D220                
+    RECTANGLE         73     25                    D292                
+    RECTANGLE         71     56                    D216                
+    RECTANGLE         56    106                    D207                
+    RECTANGLE         56     71                    D215                
+    RECTANGLE         53    152                    D231                
+    RECTANGLE         53     61                    D269                
+    RECTANGLE         51     61                    D211                
+    RECTANGLE         46     41                    D243                
+    RECTANGLE         41     46                    D244                
+    RECTANGLE         33     53                    D101                
+    RECTANGLE         33     22                    D303                
+    RECTANGLE         33     14                    D305                
+    RECTANGLE         32     32                    D194                
+    RECTANGLE         31     24                    D250                
+    RECTANGLE         28     28                    D246                
+    RECTANGLE      27.56  11.81                    D317                
+    RECTANGLE         24     31                    D249                
+    RECTANGLE         22     41                    D265                
+    RECTANGLE         16     61                    D103                
+    RECTANGLE      11.81  27.56                    D318                
+    RECTANGLE          8     27                    D105                
+    SQUARE           258                           D328                
+    SQUARE        141.73                           D320                
+    SQUARE            79                           D18                 
+    SQUARE            31                           D252                
+    CIRCLE           242                           D90                 
+    CIRCLE           118                           D204                
+    CIRCLE            52                           D38                 
+    CIRCLE            51                           D163                
+    CIRCLE            32                           D203                
+    LINE              10                           D74                 
+    LINE               5                           D329                
+
+
+================================================================
+     PROCESSING FILM < PAST_TOP >
+     TO FILE < F:/work/Eileen/box/dvt3/PAST_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     PAST_TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            25     70                    D284                
+    RECTANGLE        252    220                    D196                
+    RECTANGLE        138     98                    D222                
+    RECTANGLE        100     50                    D206                
+    RECTANGLE         96     71                    D307                
+    RECTANGLE         95    122                    D294                
+    RECTANGLE         94     63                    D236                
+    RECTANGLE         91     39                    D259                
+    RECTANGLE         91     28                    D200                
+    RECTANGLE         87     85                    D92                 
+    RECTANGLE         85     18                    D298                
+    RECTANGLE         75     71                    D142                
+    RECTANGLE         55     45                    D210                
+    RECTANGLE         53     57                    D225                
+    RECTANGLE         51     12                    D96                 
+    RECTANGLE         50     65                    D213                
+    RECTANGLE         48     48                    D278                
+    RECTANGLE         48     40                    D275                
+    RECTANGLE         47     71                    D138                
+    RECTANGLE         45     55                    D209                
+    RECTANGLE         40     40                    D239                
+    RECTANGLE         40     35                    D241                
+    RECTANGLE         39     71                    D134                
+    RECTANGLE         39      8                    D324                
+    RECTANGLE         35     40                    D242                
+    RECTANGLE         31     71                    D146                
+    RECTANGLE         30     50                    D99                 
+    RECTANGLE         28     40                    D279                
+    RECTANGLE         26     26                    D193                
+    RECTANGLE         25     18                    D248                
+    RECTANGLE         22     22                    D245                
+    RECTANGLE         16     65                    D10                 
+    RECTANGLE         16     61                    D103                
+    RECTANGLE         16     35                    D263                
+    RECTANGLE         16     27                    D302                
+    RECTANGLE         14     63                    D311                
+    RECTANGLE         12     20                    D271                
+    RECTANGLE          8     39                    D323                
+    RECTANGLE          8     27                    D105                
+    SQUARE           280                           D321                
+    SQUARE            25                           D251                
+    CIRCLE            40                           D158                
+    LINE              19                           D346                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < PAST_BOT >
+     TO FILE < F:/work/Eileen/box/dvt3/PAST_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     PAST_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    OBLONG            70     25                    D285                
+    OBLONG            40     10                    D76                 
+    OBLONG            25     70                    D284                
+    OBLONG            10     40                    D75                 
+    RECTANGLE        106     63                    D218                
+    RECTANGLE         69     21                    D290                
+    RECTANGLE         65     50                    D214                
+    RECTANGLE         50    100                    D205                
+    RECTANGLE         50     65                    D213                
+    RECTANGLE         47    146                    D229                
+    RECTANGLE         47     55                    D267                
+    RECTANGLE         45     55                    D209                
+    RECTANGLE         40     35                    D241                
+    RECTANGLE         35     40                    D242                
+    RECTANGLE         30     50                    D99                 
+    RECTANGLE         27     16                    D301                
+    RECTANGLE         27      8                    D106                
+    RECTANGLE         26     26                    D193                
+    RECTANGLE         25     18                    D248                
+    RECTANGLE      23.62   7.87                    D315                
+    RECTANGLE         22     22                    D245                
+    RECTANGLE         18     25                    D247                
+    RECTANGLE         16     61                    D103                
+    RECTANGLE         16     35                    D263                
+    RECTANGLE          8     27                    D105                
+    RECTANGLE       7.87  23.62                    D316                
+    SQUARE           252                           D327                
+    SQUARE         137.8                           D319                
+    SQUARE            25                           D251                
+    CIRCLE            40                           D158                
+    LINE              10                           D74                 
+    LINE               5                           D329                
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < F:/work/Eileen/box/dvt3/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     SILK_TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              85                           D190                
+    LINE              43                           D43                 
+    LINE              20                           D336                
+    LINE              19                           D346                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               6                           D335                
+    LINE            5.98                           D349                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < SILK_BOT >
+     TO FILE < F:/work/Eileen/box/dvt3/SILK_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     SILK_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              19                           D346                
+    LINE              10                           D74                 
+    LINE               8                           D332                
+    LINE               6                           D335                
+    LINE            5.98                           D349                
+    LINE               5                           D329                
+    LINE               4                           D330                
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < F:/work/Eileen/box/dvt3/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     DRILL created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              10                           D74                 
+    LINE               5                           D329                
+
+
+
+    TOTAL APERTURES USED
+    --------------------
+    LINE            5.98                           D349                
+    LINE               6                           D335                
+    SQUARE        141.73                           D320                
+    SQUARE           258                           D328                
+    RECTANGLE      11.81  27.56                    D318                
+    RECTANGLE         24     31                    D249                
+    RECTANGLE      27.56  11.81                    D317                
+    RECTANGLE         33     14                    D305                
+    RECTANGLE         33     22                    D303                
+    RECTANGLE         53     61                    D269                
+    RECTANGLE         53    152                    D231                
+    RECTANGLE         56    106                    D207                
+    RECTANGLE         71     56                    D216                
+    RECTANGLE         73     25                    D292                
+    RECTANGLE        112     69                    D220                
+    OBLONG            16     46                    D78                 
+    OBLONG            46     16                    D79                 
+    OBLONG            76     31                    D288                
+    CIRCLE            32                           D203                
+    CIRCLE            51                           D163                
+    CIRCLE            52                           D38                 
+    CIRCLE           118                           D204                
+    CIRCLE           242                           D90                 
+    SQUARE            31                           D252                
+    SQUARE            79                           D18                 
+    SQUARE           284                           D322                
+    RECTANGLE         12     43                    D325                
+    RECTANGLE         14     33                    D306                
+    RECTANGLE         18     26                    D273                
+    RECTANGLE         20     69                    D313                
+    RECTANGLE         22     33                    D304                
+    RECTANGLE         22     41                    D265                
+    RECTANGLE         22     71                    D12                 
+    RECTANGLE         28     28                    D246                
+    RECTANGLE         31     24                    D250                
+    RECTANGLE         32     32                    D194                
+    RECTANGLE         32     44                    D281                
+    RECTANGLE         33     53                    D101                
+    RECTANGLE         37     77                    D148                
+    RECTANGLE         40     46                    D73                 
+    RECTANGLE         41     46                    D244                
+    RECTANGLE         43     12                    D326                
+    RECTANGLE         45     77                    D136                
+    RECTANGLE         46     41                    D243                
+    RECTANGLE         46     46                    D240                
+    RECTANGLE         51     61                    D211                
+    RECTANGLE         53     77                    D140                
+    RECTANGLE         54     46                    D277                
+    RECTANGLE         54     54                    D81                 
+    RECTANGLE         56     71                    D215                
+    RECTANGLE         57     18                    D98                 
+    RECTANGLE         59     63                    D227                
+    RECTANGLE         61     51                    D212                
+    RECTANGLE         81     77                    D144                
+    RECTANGLE         91     24                    D300                
+    RECTANGLE         93     91                    D94                 
+    RECTANGLE         97     34                    D202                
+    RECTANGLE         97     45                    D261                
+    RECTANGLE         98     67                    D238                
+    RECTANGLE        101    128                    D296                
+    RECTANGLE        102     77                    D309                
+    RECTANGLE        106     56                    D208                
+    RECTANGLE        144    104                    D224                
+    RECTANGLE        258    226                    D198                
+    OBLONG            31     76                    D287                
+    OBLONG            32     58                    D66                 
+    OBLONG            46     65                    D47                 
+    OBLONG            54     85                    D26                 
+    OBLONG            54     93                    D33                 
+    OBLONG            54    109                    D185                
+    OBLONG            65     85                    D57                 
+    OBLONG            69     81                    D122                
+    OBLONG            69    116                    D115                
+    OBLONG            85    201                    D191                
+    LINE               7                           D343                
+    LINE             7.8                           D344                
+    LINE              21                           D340                
+    SQUARE         137.8                           D319                
+    SQUARE           252                           D327                
+    RECTANGLE       7.87  23.62                    D316                
+    RECTANGLE         18     25                    D247                
+    RECTANGLE      23.62   7.87                    D315                
+    RECTANGLE         27      8                    D106                
+    RECTANGLE         27     16                    D301                
+    RECTANGLE         47     55                    D267                
+    RECTANGLE         47    146                    D229                
+    RECTANGLE         50    100                    D205                
+    RECTANGLE         65     50                    D214                
+    RECTANGLE         69     21                    D290                
+    RECTANGLE        106     63                    D218                
+    OBLONG            10     40                    D75                 
+    OBLONG            40     10                    D76                 
+    OBLONG            70     25                    D285                
+    CIRCLE           132                           D86                 
+    OBLONG            54    101                    D28                 
+    FLASH         T83O73I15G                       D15                 
+    LINE             4.5                           D350                
+    CIRCLE            73                           D17                 
+    CIRCLE           122                           D89                 
+    CIRCLE            28                           D131                
+    CIRCLE            66                           D35                 
+    CIRCLE            67                           D160                
+    CIRCLE            83                           D14                 
+    OBLONG            46     70                    D59                 
+    OBLONG            50     77                    D40                 
+    OBLONG            54     99                    D20                 
+    FLASH         RT50X77X0X4X15X5                 D42                 
+    FLASH         RT54X101X0X4X15X5                D30                 
+    FLASH         RT54X99X0X4X15X5                 D22                 
+    FLASH         RT58X113X0X4X15X5                D182                
+    FLASH         RT58X79X0X4X15X5                 D52                 
+    FLASH         RT73X121X0X4X15X5                D110                
+    FLASH         RT73X85X0X4X15X5                 D119                
+    FLASH         T132O112I15G                     D87                 
+    FLASH         T66O56I15G                       D36                 
+    FLASH         T8O6I2G                          D132                
+    LINE               4                           D330                
+    LINE               5                           D329                
+    LINE               8                           D332                
+    LINE              10                           D74                 
+    LINE              12                           D333                
+    LINE              14                           D348                
+    LINE              15                           D338                
+    LINE              16                           D77                 
+    LINE              18                           D337                
+    LINE              19                           D346                
+    LINE              20                           D336                
+    LINE              22                           D345                
+    LINE              24                           D339                
+    LINE              28                           D342                
+    LINE              30                           D341                
+    LINE              43                           D43                 
+    LINE              85                           D190                
+    CIRCLE            18                           D85                 
+    CIRCLE            20                           D133                
+    CIRCLE            24                           D159                
+    CIRCLE            26                           D83                 
+    CIRCLE            40                           D158                
+    CIRCLE            46                           D37                 
+    CIRCLE            47                           D162                
+    CIRCLE           236                           D88                 
+    SQUARE            25                           D251                
+    SQUARE            73                           D16                 
+    SQUARE           280                           D321                
+    RECTANGLE          8     27                    D105                
+    RECTANGLE          8     39                    D323                
+    RECTANGLE         12     20                    D271                
+    RECTANGLE         14     63                    D311                
+    RECTANGLE         16     27                    D302                
+    RECTANGLE         16     35                    D263                
+    RECTANGLE         16     61                    D103                
+    RECTANGLE         16     65                    D10                 
+    RECTANGLE         22     22                    D245                
+    RECTANGLE         25     18                    D248                
+    RECTANGLE         26     26                    D193                
+    RECTANGLE         28     40                    D279                
+    RECTANGLE         30     50                    D99                 
+    RECTANGLE         31     71                    D146                
+    RECTANGLE         34     40                    D71                 
+    RECTANGLE         35     40                    D242                
+    RECTANGLE         39      8                    D324                
+    RECTANGLE         39     71                    D134                
+    RECTANGLE         40     34                    D70                 
+    RECTANGLE         40     35                    D241                
+    RECTANGLE         40     40                    D239                
+    RECTANGLE         45     55                    D209                
+    RECTANGLE         47     71                    D138                
+    RECTANGLE         48     40                    D275                
+    RECTANGLE         48     48                    D278                
+    RECTANGLE         50     65                    D213                
+    RECTANGLE         51     12                    D96                 
+    RECTANGLE         53     56                    D234                
+    RECTANGLE         53     57                    D225                
+    RECTANGLE         55     45                    D210                
+    RECTANGLE         75     71                    D142                
+    RECTANGLE         85     18                    D298                
+    RECTANGLE         87     85                    D92                 
+    RECTANGLE         91     28                    D200                
+    RECTANGLE         91     39                    D259                
+    RECTANGLE         94     63                    D236                
+    RECTANGLE         95    122                    D294                
+    RECTANGLE         96     71                    D307                
+    RECTANGLE        100     50                    D206                
+    RECTANGLE        138     98                    D222                
+    RECTANGLE        252    220                    D196                
+    OBLONG            25     70                    D284                
+    OBLONG            26     52                    D63                 
+    OBLONG            43     59                    D44                 
+    OBLONG            48     79                    D24                 
+    OBLONG            48     87                    D31                 
+    OBLONG            48    103                    D183                
+    OBLONG            59     79                    D54                 
+    OBLONG            63     75                    D120                
+    OBLONG            63    110                    D112                
+    OBLONG            79    195                    D188                
+
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        GND created with warnings
+        IN1 created with warnings
+        IN2 created with warnings
+        VCC created with warnings
+        BOT created with warnings
+        MASK_TOP created with warnings
+        MASK_BOT created with warnings
+        PAST_TOP created with warnings
+        PAST_BOT created with warnings
+        SILK_TOP created with warnings
+        SILK_BOT created with warnings
+        DRILL created with warnings
+
+ ARTWORK had warnings

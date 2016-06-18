@@ -1,0 +1,1366 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : hmd-C-119-2015pm13.brd                        )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Jan 19 12:35:48 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < CS1 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_CS1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+    WARNING: Film contains DRC error(s).
+    WARNING: 0 width line found at (414.35 113.41)
+           ... using undefined line width of 5.00
+
+    WARNING: text composed 0 width line found at (-160.00 960.00)
+           ... using undefined line width of 5.00
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.00
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00830                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.23600                                  DARK 
+  SQUARE     0.02400                     0.000 NO     DARK 
+  SQUARE     0.02400                    89.849 NO     DARK 
+  SQUARE     0.02400                    89.874 NO     DARK 
+  SQUARE     0.03100                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.06700                     0.000 NO     DARK 
+  SQUARE     0.06700                    89.849 NO     DARK 
+  SQUARE     0.07100                     0.000 NO     DARK 
+  SQUARE     0.18100                     0.000 NO     DARK 
+  SQUARE     0.21700                     0.000 NO     DARK 
+  SQUARE     0.23600                     0.000 NO     DARK 
+  SQUARE     0.30100                     0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.01140     x 0.03350       0.000 NO     DARK 
+  RECTANGLE  0.01140     x 0.03350      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.05100       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.05100      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.08500      90.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02400       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.06100     150.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.08700       0.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.04300      90.000 NO     DARK 
+  RECTANGLE  0.02900     x 0.04500       0.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.10600       0.000 NO     DARK 
+  RECTANGLE  0.03300     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      89.923 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.06300      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.10800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.12800      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000      89.989 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.07500       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600       0.045 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600      90.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.04800       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.04800      90.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04646     x 0.17087       0.000 NO     DARK 
+  RECTANGLE  0.04646     x 0.17087     179.849 NO     DARK 
+  RECTANGLE  0.04700     x 0.07100     150.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.04100      90.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.05700      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.04700       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      89.849 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100     179.669 NO     DARK 
+  RECTANGLE  0.06600     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.06900     x 0.10400      90.000 NO     DARK 
+  RECTANGLE  0.06900     x 0.19700       0.000 NO     DARK 
+  RECTANGLE  0.07100     x 0.08700      90.000 NO     DARK 
+  RECTANGLE  0.07500     x 0.09500       0.000 NO     DARK 
+  RECTANGLE  0.07600     x 0.11000       0.000 NO     DARK 
+  RECTANGLE  0.07600     x 0.11000     179.849 NO     DARK 
+  RECTANGLE  0.08500     x 0.08700       0.000 NO     DARK 
+  RECTANGLE  0.09400     x 0.03100      90.000 NO     DARK 
+  RECTANGLE  0.09800     x 0.13800      90.000 NO     DARK 
+  RECTANGLE  0.12200     x 0.09500      90.000 NO     DARK 
+  OBLONG     0.01100     x 0.03200       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.03200      90.000 NO     DARK 
+  OBLONG     0.01500     x 0.03000       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+  PAD SHAPE  SH011X033_5                 0.000 NO     DARK 
+  PAD SHAPE  SHP_88X68                   0.000 NO     DARK 
+  PAD SHAPE  SH011X033_5                89.849 NO     DARK 
+  PAD SHAPE  SH011X033_5                90.000 NO     DARK 
+  PAD SHAPE  SONPAD                     90.000 NO     DARK 
+  PAD SHAPE  SH011X033_5               179.849 NO     DARK 
+  PAD SHAPE  SH011X033_5               180.000 NO     DARK 
+  PAD SHAPE  SHP_88X68                 180.000 NO     DARK 
+  PAD SHAPE  SH011X033_5               269.849 NO     DARK 
+  PAD SHAPE  SONPAD                    270.000 NO     DARK 
+  PAD SHAPE  SH011X033_5               270.000 NO     DARK 
+  PAD SHAPE  SONPRP                    270.000 NO     DARK 
+  PAD SHAPE  SH011X033_5               359.849 NO     DARK 
+
+     hmd_c_CS1 created with warnings
+
+
+================================================================
+     PROCESSING FILM < PS12 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_PS12.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+    WARNING: Film contains DRC error(s).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00450                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02300                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.23600                                  DARK 
+  SQUARE     0.01200                     0.000 NO     DARK 
+  SQUARE     0.01200                    45.000 NO     DARK 
+  SQUARE     0.02400                     0.000 NO     DARK 
+  SQUARE     0.02400                     0.003 NO     DARK 
+  SQUARE     0.02400                     0.262 NO     DARK 
+  SQUARE     0.02400                    45.000 NO     DARK 
+  SQUARE     0.02400                    89.716 NO     DARK 
+  SQUARE     0.02400                    89.849 NO     DARK 
+  SQUARE     0.03100                     0.000 NO     DARK 
+  SQUARE     0.04000                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.08100                     0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.01800       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02400      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.04200      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.04300       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      89.849 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800     135.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      89.849 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      89.849 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.01300       0.079 NO     DARK 
+  RECTANGLE  0.07000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.07100     x 0.07900      90.000 NO     DARK 
+  RECTANGLE  0.07200     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.07700     x 0.12400       0.000 NO     DARK 
+  RECTANGLE  0.07900     x 0.20900       0.000 NO     DARK 
+  RECTANGLE  0.09100     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.14000     x 0.16000       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.03300       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.03300      90.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+  OBLONG     0.05512     x 0.02362       0.000 NO     DARK 
+
+     hmd_c_PS12 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L2 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L3 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L3.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00450                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L3 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L4 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L4.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L4 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L5 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L5.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00450                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L5 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L6 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L6.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L6 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L7 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L7.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L7 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L8 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L8.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L8 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L9 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L9.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L9 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L10 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L10.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00450                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L10 created with warnings
+
+
+================================================================
+     PROCESSING FILM < L11 >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_L11.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.05700                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800       0.000 NO     DARK 
+  OBLONG     0.03400     x 0.04800     179.960 NO     DARK 
+
+     hmd_c_L11 created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRDW >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_DRDW.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+
+     hmd_c_DRDW created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMCS >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_SMCS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.03600                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.04600                                  DARK 
+  CIRCLE     0.06200                                  DARK 
+  CIRCLE     0.07100                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.24400                                  DARK 
+  SQUARE     0.03000                     0.000 NO     DARK 
+  SQUARE     0.03000                    89.849 NO     DARK 
+  SQUARE     0.03000                    89.874 NO     DARK 
+  SQUARE     0.03100                     0.000 NO     DARK 
+  SQUARE     0.06600                     0.000 NO     DARK 
+  SQUARE     0.07100                     0.000 NO     DARK 
+  SQUARE     0.07100                    89.849 NO     DARK 
+  SQUARE     0.07300                     0.000 NO     DARK 
+  SQUARE     0.07700                     0.000 NO     DARK 
+  SQUARE     0.18700                     0.000 NO     DARK 
+  SQUARE     0.22300                     0.000 NO     DARK 
+  SQUARE     0.24200                     0.000 NO     DARK 
+  SQUARE     0.30500                     0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.01400     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.01500     x 0.03400       0.000 NO     DARK 
+  RECTANGLE  0.01500     x 0.03400      90.000 NO     DARK 
+  RECTANGLE  0.01540     x 0.03750       0.000 NO     DARK 
+  RECTANGLE  0.01540     x 0.03750      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.03400       0.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.03400      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.05700       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02400       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.09100      90.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.06400       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.06700     150.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.09300       0.000 NO     DARK 
+  RECTANGLE  0.03300     x 0.04900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      89.923 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.04900      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.01400      90.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.03800     x 0.07300      90.000 NO     DARK 
+  RECTANGLE  0.03800     x 0.11200       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.06300      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04600       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.04100       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.11400       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.13400      90.000 NO     DARK 
+  RECTANGLE  0.04646     x 0.17087       0.000 NO     DARK 
+  RECTANGLE  0.04646     x 0.17087     179.849 NO     DARK 
+  RECTANGLE  0.04900     x 0.04600       0.000 NO     DARK 
+  RECTANGLE  0.04900     x 0.04600      89.989 NO     DARK 
+  RECTANGLE  0.04900     x 0.04600      90.000 NO     DARK 
+  RECTANGLE  0.04900     x 0.08100       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.03200       0.045 NO     DARK 
+  RECTANGLE  0.05000     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.05400       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.05400      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.04100      90.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.07700     150.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      89.849 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.05600     x 0.07100      90.000 NO     DARK 
+  RECTANGLE  0.05900     x 0.06300      90.000 NO     DARK 
+  RECTANGLE  0.06100     x 0.04500       0.000 NO     DARK 
+  RECTANGLE  0.06100     x 0.04500      90.000 NO     DARK 
+  RECTANGLE  0.06100     x 0.05300       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100     179.669 NO     DARK 
+  RECTANGLE  0.07200     x 0.07700       0.000 NO     DARK 
+  RECTANGLE  0.07500     x 0.11000      90.000 NO     DARK 
+  RECTANGLE  0.07500     x 0.20300       0.000 NO     DARK 
+  RECTANGLE  0.07700     x 0.09300      90.000 NO     DARK 
+  RECTANGLE  0.08100     x 0.10100       0.000 NO     DARK 
+  RECTANGLE  0.08200     x 0.11600       0.000 NO     DARK 
+  RECTANGLE  0.08200     x 0.11600     179.849 NO     DARK 
+  RECTANGLE  0.09100     x 0.09300       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.03700      90.000 NO     DARK 
+  RECTANGLE  0.10400     x 0.14400      90.000 NO     DARK 
+  RECTANGLE  0.12800     x 0.10100      90.000 NO     DARK 
+  OBLONG     0.01400     x 0.03500       0.000 NO     DARK 
+  OBLONG     0.01400     x 0.03500      90.000 NO     DARK 
+  OBLONG     0.02100     x 0.03600       0.000 NO     DARK 
+  OBLONG     0.03800     x 0.05200       0.000 NO     DARK 
+  OBLONG     0.03800     x 0.05200     179.960 NO     DARK 
+  PAD SHAPE  SHP_88X68                   0.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM              0.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM             89.849 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM             90.000 NO     DARK 
+  PAD SHAPE  SONPAD                     90.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM            179.849 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM            180.000 NO     DARK 
+  PAD SHAPE  SHP_88X68                 180.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM            269.849 NO     DARK 
+  PAD SHAPE  SONPRP                    270.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM            270.000 NO     DARK 
+  PAD SHAPE  SONPAD                    270.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_SM            359.849 NO     DARK 
+
+     hmd_c_SMCS created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSCS >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_SSCS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00598                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00827                                  DARK 
+  CIRCLE     0.00830                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+
+     hmd_c_SSCS created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSPS >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_SSPS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00598                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00827                                  DARK 
+  CIRCLE     0.00830                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+
+     hmd_c_SSPS created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMPS >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_SMPS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.03600                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.04600                                  DARK 
+  CIRCLE     0.06200                                  DARK 
+  CIRCLE     0.07100                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.24400                                  DARK 
+  SQUARE     0.01600                     0.000 NO     DARK 
+  SQUARE     0.01600                    45.000 NO     DARK 
+  SQUARE     0.03000                     0.000 NO     DARK 
+  SQUARE     0.03000                     0.003 NO     DARK 
+  SQUARE     0.03000                     0.262 NO     DARK 
+  SQUARE     0.03000                    45.000 NO     DARK 
+  SQUARE     0.03000                    89.716 NO     DARK 
+  SQUARE     0.03000                    89.849 NO     DARK 
+  SQUARE     0.03100                     0.000 NO     DARK 
+  SQUARE     0.04600                     0.000 NO     DARK 
+  SQUARE     0.07300                     0.000 NO     DARK 
+  SQUARE     0.08500                     0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.02100       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02400      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.04800      90.000 NO     DARK 
+  RECTANGLE  0.03300     x 0.05300       0.000 NO     DARK 
+  RECTANGLE  0.03300     x 0.05300      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      89.849 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.04900       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800     135.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.04100       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.04100      90.000 NO     DARK 
+  RECTANGLE  0.04700     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.04900     x 0.04600       0.000 NO     DARK 
+  RECTANGLE  0.04900     x 0.04600      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      89.849 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      89.849 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.05600     x 0.04600      90.000 NO     DARK 
+  RECTANGLE  0.05600     x 0.07100      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.07500     x 0.01800       0.079 NO     DARK 
+  RECTANGLE  0.07600     x 0.03100      90.000 NO     DARK 
+  RECTANGLE  0.07700     x 0.08500      90.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.10600      90.000 NO     DARK 
+  RECTANGLE  0.08300     x 0.13000       0.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.21500       0.000 NO     DARK 
+  RECTANGLE  0.09100     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.14600     x 0.16600       0.000 NO     DARK 
+  OBLONG     0.01400     x 0.03600       0.000 NO     DARK 
+  OBLONG     0.01400     x 0.03600      90.000 NO     DARK 
+  OBLONG     0.03800     x 0.05200       0.000 NO     DARK 
+  OBLONG     0.03800     x 0.05200     179.960 NO     DARK 
+  OBLONG     0.05906     x 0.02756       0.000 NO     DARK 
+
+     hmd_c_SMPS created with warnings
+
+
+================================================================
+     PROCESSING FILM < PMCS >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_PMCS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  SQUARE     0.01600                     0.000 NO     DARK 
+  SQUARE     0.02400                     0.000 NO     DARK 
+  SQUARE     0.02400                    89.849 NO     DARK 
+  SQUARE     0.02400                    89.874 NO     DARK 
+  SQUARE     0.03100                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07100                     0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.01140     x 0.03350       0.000 NO     DARK 
+  RECTANGLE  0.01140     x 0.03350      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.05100       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.05100      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.06100      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.08500      90.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02400       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.06100     150.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.08700       0.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.04300      90.000 NO     DARK 
+  RECTANGLE  0.02900     x 0.04500       0.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.10600       0.000 NO     DARK 
+  RECTANGLE  0.03300     x 0.01000      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      89.923 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.10800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.12800      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000      89.989 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.07500       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600       0.045 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600      90.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.04800       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.04800      90.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04646     x 0.17087       0.000 NO     DARK 
+  RECTANGLE  0.04646     x 0.17087     179.849 NO     DARK 
+  RECTANGLE  0.04700     x 0.07100     150.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.04100      90.000 NO     DARK 
+  RECTANGLE  0.05300     x 0.05700      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.04700       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      89.849 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100     179.669 NO     DARK 
+  RECTANGLE  0.06600     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.06900     x 0.19700       0.000 NO     DARK 
+  RECTANGLE  0.07100     x 0.08700      90.000 NO     DARK 
+  RECTANGLE  0.07500     x 0.09500       0.000 NO     DARK 
+  RECTANGLE  0.07600     x 0.11000       0.000 NO     DARK 
+  RECTANGLE  0.07600     x 0.11000     179.849 NO     DARK 
+  RECTANGLE  0.08500     x 0.08700       0.000 NO     DARK 
+  RECTANGLE  0.09400     x 0.03100      90.000 NO     DARK 
+  RECTANGLE  0.09800     x 0.13800      90.000 NO     DARK 
+  RECTANGLE  0.12200     x 0.09500      90.000 NO     DARK 
+  OBLONG     0.01100     x 0.03200       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.03200      90.000 NO     DARK 
+  OBLONG     0.01500     x 0.03000       0.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST             0.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST            89.849 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST            90.000 NO     DARK 
+  PAD SHAPE  SONPAD                     90.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST           179.849 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST           180.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST           269.849 NO     DARK 
+  PAD SHAPE  SONPAD                    270.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST           270.000 NO     DARK 
+  PAD SHAPE  SH011X033_5_PST           359.849 NO     DARK 
+
+     hmd_c_PMCS created with warnings
+
+
+================================================================
+     PROCESSING FILM < PMPS >
+     TO FILE < F:/work/Eileen/hmd/002/hmd_c_PMPS.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+ WARNING: Photoplot window (2320000 x 1800000) exceeds film size (2400000 x 1600000)
+          stated in parameter file. 
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  SQUARE     0.01200                     0.000 NO     DARK 
+  SQUARE     0.01200                    45.000 NO     DARK 
+  SQUARE     0.02400                     0.000 NO     DARK 
+  SQUARE     0.02400                     0.003 NO     DARK 
+  SQUARE     0.02400                     0.262 NO     DARK 
+  SQUARE     0.02400                    45.000 NO     DARK 
+  SQUARE     0.02400                    89.716 NO     DARK 
+  SQUARE     0.02400                    89.849 NO     DARK 
+  SQUARE     0.03100                     0.000 NO     DARK 
+  SQUARE     0.04000                     0.000 NO     DARK 
+  RECTANGLE  0.00800     x 0.01800       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02098     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.02400      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.04200      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.04300       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      89.849 NO     DARK 
+  RECTANGLE  0.03400     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.02800     135.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04300     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.02600      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.01200      90.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      89.849 NO     DARK 
+  RECTANGLE  0.05100     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      89.849 NO     DARK 
+  RECTANGLE  0.05500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.01300       0.079 NO     DARK 
+  RECTANGLE  0.07000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.07100     x 0.07900      90.000 NO     DARK 
+  RECTANGLE  0.07200     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.07700     x 0.12400       0.000 NO     DARK 
+  RECTANGLE  0.07900     x 0.20900       0.000 NO     DARK 
+  RECTANGLE  0.09100     x 0.06700      90.000 NO     DARK 
+  OBLONG     0.01100     x 0.03300       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.03300      90.000 NO     DARK 
+  OBLONG     0.05512     x 0.02362       0.000 NO     DARK 
+
+     hmd_c_PMPS created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        hmd_c_CS1 created with warnings
+        hmd_c_PS12 created with warnings
+        hmd_c_L2 created with warnings
+        hmd_c_L3 created with warnings
+        hmd_c_L4 created with warnings
+        hmd_c_L5 created with warnings
+        hmd_c_L6 created with warnings
+        hmd_c_L7 created with warnings
+        hmd_c_L8 created with warnings
+        hmd_c_L9 created with warnings
+        hmd_c_L10 created with warnings
+        hmd_c_L11 created with warnings
+        hmd_c_DRDW created with warnings
+        hmd_c_SMCS created with warnings
+        hmd_c_SSCS created with warnings
+        hmd_c_SSPS created with warnings
+        hmd_c_SMPS created with warnings
+        hmd_c_PMCS created with warnings
+        hmd_c_PMPS created with warnings
+
+ ARTWORK had warnings

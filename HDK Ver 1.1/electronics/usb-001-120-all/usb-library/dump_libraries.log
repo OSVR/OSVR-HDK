@@ -1,0 +1,93 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Mar 09 12:09:29 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/work/Eileen/usb/001/usb-library/usb-001-120pm1530.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  TPC26B being dumped.
+
+  C197D91 being dumped.
+
+  R50X100 being dumped.
+
+  O55X96DO31X73 being dumped.
+
+  C40TOPS being dumped.
+
+  O55X118DO31X55-2 being dumped.
+
+  S22 being dumped.
+
+  VIA24 being dumped.
+
+  C44D32 being dumped.
+
+  R20X12 being dumped.
+
+  R12X51 being dumped.
+
+  R85X87 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  t8o6i2g being dumped.
+
+  t62o52i15g being dumped.
+
+  rt61x85x0x4x15x5 being dumped.
+
+  t121o101i15g being dumped.
+
+  rt61x103x0x4x15x5 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  dlp11t being dumped.
+
+  fidmark being dumped.
+
+  c0402 being dumped.
+
+  r0402 being dumped.
+
+  tanb being dumped.
+
+  holec197d91 being dumped.
+
+  aces_50502-14 being dumped.
+
+  singatron_2ub4006-400101f being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  razer-4l being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               12
+Number of package symbols dumped:          8
+Number of mechanical symbols dumped:       1
+Number of flash symbols dumped:            5
+
+Total number of symbols dumped:           14
+*****************************************************
+

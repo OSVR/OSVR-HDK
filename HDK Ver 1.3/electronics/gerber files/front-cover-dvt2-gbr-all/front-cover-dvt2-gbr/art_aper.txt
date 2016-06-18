@@ -1,0 +1,66 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               4            D61
+LINE               5            D60
+LINE               6            D62
+LINE               8            D63
+LINE              10            D64
+LINE              15            D36
+LINE              20            D67
+LINE              21            D39
+LINE              25            D65
+LINE              30            D66
+LINE              40            D69
+LINE             200            D68
+CIRCLE            24            D31
+CIRCLE            30            D12
+CIRCLE            36            D13
+CIRCLE            40            D10
+CIRCLE            60            D11
+CIRCLE            75            D14
+CIRCLE           158            D16
+CIRCLE           164            D17
+CIRCLE           188            D15
+RECTANGLE          9        21   0.00000  D56
+RECTANGLE         15        27   0.00000  D58
+RECTANGLE         20        30   0.00000  D45
+RECTANGLE         21         9   0.00000  D57
+RECTANGLE         22        22   0.00000  D42
+RECTANGLE         26        36   0.00000  D47
+RECTANGLE         27        15   0.00000  D59
+RECTANGLE         28        28   0.00000  D43
+RECTANGLE         30        20   0.00000  D44
+RECTANGLE         35        40   0.00000  D53
+RECTANGLE         36        26   0.00000  D46
+RECTANGLE         40        35   0.00000  D52
+RECTANGLE         41        46   0.00000  D55
+RECTANGLE         46        41   0.00000  D54
+RECTANGLE         50        65   0.00000  D18
+RECTANGLE         51        59   0.00000  D27
+RECTANGLE         56        71   0.00000  D20
+RECTANGLE         57        65   0.00000  D29
+RECTANGLE         59        51   0.00000  D26
+RECTANGLE         59        83   0.00000  D22
+RECTANGLE         60       102   0.00000  D49
+RECTANGLE         65        50   0.00000  D19
+RECTANGLE         65        57   0.00000  D28
+RECTANGLE         65        89   0.00000  D24
+RECTANGLE         66       108   0.00000  D51
+RECTANGLE         71        56   0.00000  D21
+RECTANGLE         83        59   0.00000  D23
+RECTANGLE         89        65   0.00000  D25
+RECTANGLE        102        60   0.00000  D48
+RECTANGLE        108        66   0.00000  D50
+RECTANGLE        126       196   0.00000  D33
+RECTANGLE        131       202   0.00000  D35
+RECTANGLE        196       126   0.00000  D32
+RECTANGLE        202       131   0.00000  D34
+OBLONG            15        65   0.00000  D37
+OBLONG            21        71   0.00000  D40
+OBLONG            65        15   0.00000  D38
+OBLONG            71        21   0.00000  D41
+FLASH     T8O6I2G              0.00000  D30
+

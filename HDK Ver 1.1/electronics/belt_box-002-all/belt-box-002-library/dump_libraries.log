@@ -1,0 +1,269 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Mar 09 11:30:25 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/work/Eileen/box/002/belt-box-library/belt-box-002-119pm14.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  TPC26B being dumped.
+
+  RE39X8 being dumped.
+
+  RE8X39 being dumped.
+
+  SOT223-SHAPE being dumped.
+
+  R50X100 being dumped.
+
+  TPC26T being dumped.
+
+  O43X59DO20X39 being dumped.
+
+  R63X106 being dumped.
+
+  O48X87DO24X63 being dumped.
+
+  C47D47N being dumped.
+
+  R122X95 being dumped.
+
+  O48X79DO24X55 being dumped.
+
+  R47X146 being dumped.
+
+  R98X138 being dumped.
+
+  C197D102 being dumped.
+
+  RE28X40 being dumped.
+
+  RE21X69 being dumped.
+
+  RE63X94 being dumped.
+
+  RE56X53NMPL10 being dumped.
+
+  RE56X53NMPR10 being dumped.
+
+  O48X103DO28X83 being dumped.
+
+  R220X252 being dumped.
+
+  C40TOPS being dumped.
+
+  S22 being dumped.
+
+  S40 being dumped.
+
+  S25 being dumped.
+
+  R26 being dumped.
+
+  S71 being dumped.
+
+  S48 being dumped.
+
+  SMD_RCT_0-6X0-2 being dumped.
+
+  S252 being dumped.
+
+  S280 being dumped.
+
+  VIA20 being dumped.
+
+  VIA24 being dumped.
+
+  SMD_SQ_3-5 being dumped.
+
+  R27X8 being dumped.
+
+  C44D32 being dumped.
+
+  O79X195DO28X83UP31 being dumped.
+
+  S60D45 being dumped.
+
+  O10X20 being dumped.
+
+  R20X12 being dumped.
+
+  R40X50 being dumped.
+
+  O25X70 being dumped.
+
+  R40X35 being dumped.
+
+  R14X63 being dumped.
+
+  R35X16 being dumped.
+
+  R27X16 being dumped.
+
+  R40X48 being dumped.
+
+  R18X25 being dumped.
+
+  R50X65 being dumped.
+
+  R31X59 being dumped.
+
+  R45X55 being dumped.
+
+  R24X59 being dumped.
+
+  R53X57 being dumped.
+
+  R28X91 being dumped.
+
+  R55X47 being dumped.
+
+  R18X85 being dumped.
+
+  R39X91 being dumped.
+
+  R96X71 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  sot223-shape being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  tr63x77x15-45 being dumped.
+
+  t8o6i2g being dumped.
+
+  t62o52i15g being dumped.
+
+  t75o65i15g being dumped.
+
+  rt50x69x0x4x15x5 being dumped.
+
+  rt54x85x0x4x15x5 being dumped.
+
+  rt54x99x0x4x15x5 being dumped.
+
+  t132o112i15g being dumped.
+
+  rt58x113x0x4x15x5 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  singatron_2ub1585-000121f being dumped.
+
+  dlp11t being dumped.
+
+  tanbb2 being dumped.
+
+  tpc26t being dumped.
+
+  sot23-5 being dumped.
+
+  bw_wcm2012f2s-900t04 being dumped.
+
+  sot143b being dumped.
+
+  vmt3-132 being dumped.
+
+  lxes2tbbb4-028 being dumped.
+
+  fidmark being dumped.
+
+  qfn76-9x9-4-77p being dumped.
+
+  hrs_edc3-124422 being dumped.
+
+  sot23-132 being dumped.
+
+  i-pex_20389-030e being dumped.
+
+  to252-aoi being dumped.
+
+  sot223-123 being dumped.
+
+  short0805 being dumped.
+
+  r-pdso-g8 being dumped.
+
+  sot23-gds being dumped.
+
+  ty-top_mdje4040t100mm being dumped.
+
+  xtl-5x3_2-3_8-2p being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  c1206 being dumped.
+
+  c0805 being dumped.
+
+  smpi0603hw being dumped.
+
+  l0402 being dumped.
+
+  l0603 being dumped.
+
+  r0402 being dumped.
+
+  l0805 being dumped.
+
+  r0603 being dumped.
+
+  tanb being dumped.
+
+  sop8 being dumped.
+
+  tqfn40p500x500-41n being dumped.
+
+  holec47d47n being dumped.
+
+  qfn76-0_4mm being dumped.
+
+  sk-3m being dumped.
+
+  holec197d102 being dumped.
+
+  soic8-6-1_27 being dumped.
+
+  singatron_2sj2284-102592 being dumped.
+
+  singatron_2dc3064-010111f being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  osvr-2 being dumped.
+
+  razer-4l being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               59
+Number of package symbols dumped:         41
+Number of mechanical symbols dumped:       2
+Number of shape symbols dumped:            1
+Number of flash symbols dumped:            9
+
+Total number of symbols dumped:           53
+*****************************************************
+

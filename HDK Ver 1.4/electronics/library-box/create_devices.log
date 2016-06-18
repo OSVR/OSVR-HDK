@@ -1,0 +1,179 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : belt-box-dvt3-0706pm14.brd                    )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Thu Mar 17 10:02:15 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'L0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'SOP8' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'TPC26T' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'R0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C1206' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0603' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0805' occurs multiple times - check the device file.
+WARNING(SPMHDF-67): Device 'C0402' occurs multiple times - check the device file.
+
+Device file 'F:/work/Eileen/box/dvt3/library/mci-2012h-900.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/l0402.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/holec236d102.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/aces_50502-14.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/capn_rclamp0524.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/singatron_2he1718-000x11f.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sup_pgb1010603mr.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/foxconn_un51a63-bt01-7h.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__2.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__3.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/l0402__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/holec47d47n.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/to252-aoi.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c1206.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/xtl-5x3_2-3_8-2p.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sk-3m.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/l0603.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sop8.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/qfn76-0_4mm.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sop8__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sot143b.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sot223-123.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r-pdso-g8.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/soic8-6-1_27.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sot23-5.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/qfn76-9x9-4-77p.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/lxes2tbbb4-028.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/tqfn40p500x500-41n.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/tpc26t.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/tpc26t__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__4.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__5.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__6.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__7.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__8.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__9.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__10.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__11.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__12.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0603.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__13.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__14.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__15.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__16.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__17.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__18.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0603__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__19.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__20.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__21.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__22.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__23.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__24.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__25.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0603__2.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__26.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__27.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__28.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__29.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__30.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__31.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__32.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/r0402__33.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sot23-132.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/vmt3-132.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/sot23-gds.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/short0805.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/ty-top_mdje4040t100mm.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/bw_wcm2012f2s-900t04.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/l0805.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/smpi0603hw.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/dlp11t.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/singatron_2sj2284-102592.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/singatron_2ub1585-000121f.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/singatron_2dc3064-010111f.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/hrs_edc3-124422.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/tanbb2.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__2.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c1206__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__3.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__2.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__4.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__3.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__4.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__5.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__6.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__5.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__7.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__8.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__9.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__6.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0805.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__7.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__10.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__11.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__12.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/tanb.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0603__8.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0805__1.txt': written successfully.
+Device file 'F:/work/Eileen/box/dvt3/library/c0402__13.txt': written successfully.
