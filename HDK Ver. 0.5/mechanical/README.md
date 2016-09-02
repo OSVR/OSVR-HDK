@@ -1,1 +1,0 @@
-Mechanical Design for OSVR Hacker Dev Kit first public release

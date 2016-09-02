@@ -1,1 +1,0 @@
-ATXMEGA256A3BU for Sharp LCD and AUO OLED panels
