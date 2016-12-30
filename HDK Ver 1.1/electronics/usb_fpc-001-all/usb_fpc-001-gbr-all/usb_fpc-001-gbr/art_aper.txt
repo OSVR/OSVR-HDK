@@ -1,0 +1,21 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               4            D18
+LINE               5            D17
+LINE               6            D19
+LINE               8            D20
+LINE              10            D21
+LINE              14            D23
+LINE              15            D24
+LINE              24            D25
+LINE              25            D22
+CIRCLE            24            D12
+CIRCLE            40            D10
+RECTANGLE         14       118   0.00000  D13
+RECTANGLE         20       124   0.00000  D15
+RECTANGLE        118        14   0.00000  D14
+RECTANGLE        124        20   0.00000  D16
+

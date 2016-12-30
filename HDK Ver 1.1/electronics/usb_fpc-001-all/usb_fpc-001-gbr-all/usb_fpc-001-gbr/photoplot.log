@@ -1,0 +1,316 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : usb-fpc-001-0119pm16.brd                      )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Jan 19 15:57:08 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER6X00
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             240000 160000
+    FORMAT                5.4
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    G-CODES               NO
+    OPTIMIZE              YES
+    STATIONS-PER-WHEEL    999
+    COORDINATES           ABSOLUTE
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+
+ WARNING: database resolution exceeds the resolution of the 
+      output coordinates (see FORMAT in parameter file).
+      Some roundoff of coordinates may occur unless the number
+      of decimal places in the output file is increased.
+
+Mon Jan 19 15:57:08 2015				Page     1
+
+Photoplot log file
+Results from aperture table.
+
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               4            D18
+LINE               5            D17
+LINE               6            D19
+LINE               8            D20
+LINE              10            D21
+LINE              14            D23
+LINE              15            D24
+LINE              24            D25
+LINE              25            D22
+CIRCLE            24            D12
+CIRCLE            40            D10
+RECTANGLE         14       118   0.00000  D13
+RECTANGLE         20       124   0.00000  D15
+RECTANGLE        118        14   0.00000  D14
+RECTANGLE        124        20   0.00000  D16
+FLASH     T8O6I2G              0.00000  D11
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < F:/work/Eileen/usb_fpc/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+ WARNING: 0 width text line found at (6580.00 1960.00)
+         ... using undefined line width of 5.00
+  Multiple 0 width text lines; all will be treated the same as the first.
+
+ WARNING: 0 width  line found at (6169.15 4516.43)
+         ... using undefined line width of 5.00
+  Multiple 0 width  lines; all will be treated the same as the first.
+
+
+
+====>     TOP created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    CIRCLE            24                           D12                 
+    LINE              25                           D22                 
+    LINE              15                           D24                 
+    LINE              10                           D21                 
+    LINE               8                           D20                 
+    LINE               5                           D17                 
+    LINE               4                           D18                 
+
+
+================================================================
+     PROCESSING FILM < BOT >
+     TO FILE < F:/work/Eileen/usb_fpc/BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    RECTANGLE         14    118                    D13                 
+    CIRCLE            24                           D12                 
+    LINE              25                           D22                 
+    LINE              24                           D25                 
+    LINE              15                           D24                 
+    LINE              14                           D23                 
+    LINE              10                           D21                 
+    LINE               8                           D20                 
+    LINE               5                           D17                 
+    LINE               4                           D18                 
+
+
+================================================================
+     PROCESSING FILM < MASK_BOT >
+     TO FILE < F:/work/Eileen/usb_fpc/MASK_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     MASK_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    RECTANGLE         20    124                    D15                 
+    LINE              10                           D21                 
+    LINE               5                           D17                 
+
+
+================================================================
+     PROCESSING FILM < PAST_BOT >
+     TO FILE < F:/work/Eileen/usb_fpc/PAST_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     PAST_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    RECTANGLE         14    118                    D13                 
+    LINE              10                           D21                 
+    LINE               5                           D17                 
+
+
+================================================================
+     PROCESSING FILM < SILK_BOT >
+     TO FILE < F:/work/Eileen/usb_fpc/SILK_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     SILK_BOT created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              10                           D21                 
+    LINE               5                           D17                 
+    LINE               4                           D18                 
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < F:/work/Eileen/usb_fpc/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+
+      undefined line width ... 5.00
+      plot wheels allowed .... 1  2  3  4  5  6  7  8  9  10  
+      mirror code ..... NONE
+      rotate angle .... NONE
+      offset X: 0.00     Y: 0.00
+      plot negative ... NO
+      draw (fill) pads lacking apertures .. YES
+      suppress unconnected internal pads .. NO
+      make use of rotated apertures ....... NO
+
+
+
+
+====>     DRILL created with warnings
+ 
+
+     ..... USED APERTURES .....
+
+   Wheel number - 1 
+
+    TYPE          SIZE/FLASHNAME        ROTATION    STATION             
+    ----          --------------        --------    -------             
+    LINE              10                           D21                 
+    LINE               5                           D17                 
+
+
+
+    TOTAL APERTURES USED
+    --------------------
+    RECTANGLE         20    124                    D15                 
+    LINE              14                           D23                 
+    LINE              24                           D25                 
+    RECTANGLE         14    118                    D13                 
+    LINE               4                           D18                 
+    LINE               5                           D17                 
+    LINE               8                           D20                 
+    LINE              10                           D21                 
+    LINE              15                           D24                 
+    LINE              25                           D22                 
+    CIRCLE            24                           D12                 
+
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOT created with warnings
+        MASK_BOT created with warnings
+        PAST_BOT created with warnings
+        SILK_BOT created with warnings
+        DRILL created with warnings
+
+ ARTWORK had warnings

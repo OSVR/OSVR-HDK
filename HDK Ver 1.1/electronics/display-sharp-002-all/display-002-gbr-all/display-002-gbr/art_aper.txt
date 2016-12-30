@@ -1,0 +1,52 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               2            D45
+LINE               4            D44
+LINE               5            D43
+LINE               6            D46
+LINE               8            D47
+LINE              10            D48
+LINE              12            D52
+LINE           13.78            D56
+LINE              15            D57
+LINE              20            D51
+LINE              24            D50
+LINE              25            D49
+LINE              30            D55
+LINE              40            D54
+LINE              50            D53
+CIRCLE            20            D12
+CIRCLE            24            D25
+CIRCLE            26            D13
+CIRCLE            28            D10
+CIRCLE            32            D14
+CIRCLE            40            D24
+CIRCLE            43            D21
+CIRCLE            49            D23
+CIRCLE            50            D15
+CIRCLE            63            D22
+CIRCLE            73            D20
+CIRCLE           118            D42
+CIRCLE           136            D16
+CIRCLE           197            D18
+CIRCLE           203            D19
+RECTANGLE          8        36   0.00000  D34
+RECTANGLE         12        51   0.00000  D30
+RECTANGLE         14        42   0.00000  D36
+RECTANGLE         16        55   0.00000  D32
+RECTANGLE         28        47   0.00000  D38
+RECTANGLE         34        53   0.00000  D40
+RECTANGLE         36         8   0.00000  D35
+RECTANGLE         42        14   0.00000  D37
+RECTANGLE         47        28   0.00000  D39
+RECTANGLE         51        12   0.00000  D31
+RECTANGLE         53        34   0.00000  D41
+RECTANGLE         55        16   0.00000  D33
+RECTANGLE         71        87   0.00000  D26
+RECTANGLE         77        93   0.00000  D28
+RECTANGLE         87        71   0.00000  D27
+RECTANGLE         93        77   0.00000  D29
+

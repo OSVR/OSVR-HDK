@@ -1,0 +1,54 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               4            D53
+LINE               5            D52
+LINE               6            D54
+LINE               8            D55
+LINE              10            D56
+LINE              15            D59
+LINE              20            D60
+LINE              24            D58
+LINE              25            D57
+CIRCLE            24            D39
+CIRCLE            26            D22
+CIRCLE            30            D25
+CIRCLE            32            D23
+CIRCLE            36            D26
+CIRCLE            40            D20
+CIRCLE            47            D33
+CIRCLE            50            D24
+CIRCLE            53            D34
+CIRCLE            75            D27
+CIRCLE            77            D32
+CIRCLE           117            D28
+CIRCLE           118            D21
+CIRCLE           197            D30
+CIRCLE           203            D31
+CIRCLE           276            D36
+CIRCLE           282            D37
+RECTANGLE         20        40   0.00000  D40
+RECTANGLE         22        22   0.00000  D10
+RECTANGLE         26        46   0.00000  D42
+RECTANGLE         28        28   0.00000  D11
+RECTANGLE         40        20   0.00000  D41
+RECTANGLE         46        26   0.00000  D43
+RECTANGLE         47        67   0.00000  D44
+RECTANGLE         51        59   0.00000  D17
+RECTANGLE         53        73   0.00000  D46
+RECTANGLE         57        65   0.00000  D19
+RECTANGLE         59        51   0.00000  D16
+RECTANGLE         59        83   0.00000  D12
+RECTANGLE         60       102   0.00000  D49
+RECTANGLE         65        57   0.00000  D18
+RECTANGLE         65        89   0.00000  D14
+RECTANGLE         66       108   0.00000  D51
+RECTANGLE         67        47   0.00000  D45
+RECTANGLE         73        53   0.00000  D47
+RECTANGLE         83        59   0.00000  D13
+RECTANGLE         89        65   0.00000  D15
+RECTANGLE        102        60   0.00000  D48
+RECTANGLE        108        66   0.00000  D50
+

@@ -1,0 +1,81 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.3S053                                      )
+(    Date/Time        : Mon Mar 09 11:51:01 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/work/Eileen/display/002/sharp-library/display-002-119pm1510.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  TPC26B being dumped.
+
+  C43D43N being dumped.
+
+  TPC26T being dumped.
+
+  C197D106 being dumped.
+
+  C40TOPS being dumped.
+
+  SMD12X51 being dumped.
+
+  SMD08X36 being dumped.
+
+  SMD28X47 being dumped.
+
+  SMD71X87 being dumped.
+
+  VIA20 being dumped.
+
+  VIA24 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  t8o6i2g being dumped.
+
+  t136o116i15g being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  fh12-36s-0_5sh being dumped.
+
+  fidmark being dumped.
+
+  axt530124 being dumped.
+
+  holec43d43n being dumped.
+
+  holec197d106 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  osvr-2 being dumped.
+
+  razer-4l being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               11
+Number of package symbols dumped:          5
+Number of mechanical symbols dumped:       2
+Number of flash symbols dumped:            2
+
+Total number of symbols dumped:            9
+*****************************************************
+
